@@ -43,10 +43,5 @@ Datos de ventas retail (+400 registros mensuales).
 - Sistema reproducible y escalable para nuevos datos
 
 
-## 🚀 ¿Cómo ejecutar el proyecto?
-1. Clonar repositorio
-2. Instalar dependencias
-3. Ejecutar notebooks en orden numérico
-
 ## 💡 Resolución Clave
 - Posible mejora en conversión y planificacion de abastecimiento según estacionalidad
