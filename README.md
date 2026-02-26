@@ -3,45 +3,47 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
-## 📌 Descripción del Proyecto
+# Retail Sales Analysis – Easy Local Store (E-145)
 
-## Business Problem
-La empresa necesita entender patrones de ventas para optimizar campañas.
+## 📌 Business Problem
+Una tienda retail necesita entender sus datos de ventas para tomar decisiones informadas y mejorar resultados comerciales.
 
-Desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)** . <br>
-Se trabajo con las KPIS más relevantes y se hizo enfasis en la distribución de las ganancias de las secciones del local y en el margen de aporte de cada una de ellos. <br>
-Por otro lado se abordo el analisis de la venta Retail y Venta REMA, para hacer graficos comparativos con el fin de obtener datos relevantes, para potenciar el canal de venta que este por debajo del presupuesto.<br>
-El resultado final fue un dashboard generado en **Power BI** que permite obtener información rapida sobre el estado del negocio y generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.
+## 📊 Objective
+Analizar ventas por canal, identificar patrones y generar un **dashboard interactivo** para visualización ejecutiva.
 
-## Dataset
-Datos de ventas retail (+400 registros mensuales).
+---
 
-<p align="center">
-  <a href="https://postimg.cc/9zytcfVX" target="_blank">
-    <img src="https://i.postimg.cc/pV60Y96j/images.jpg" alt="Proceso de Data Science" width="400">
-  </a>
-</p>
+## 🛠 Tools Utilizados
+- **SQL** para extracción y limpieza de datos  
+- **Python (Pandas)** para análisis exploratorio  
+- **Power BI** para dashboard visual de indicadores  
+- **Excel** para manejo de datos adicionales
 
-## 🔍 ¿Qué encontrarás aquí?
-- **Limpieza y transformación** de datos crudos en información valiosa
-- **Análisis exploratorio** con visualizaciones clave
-- **Modelado predictivo** con evaluación de métricas
-- **Conclusiones accionables** para stakeholders
+---
 
-## 🛠 Habilidades Demostradas
-- **Python** (Pandas, NumPy, Scikit-learn)
-- **Análisis Estadístico Avanzado**
-- **Preprocesamiento de Datos** (manejo de outliers, imputación, encoding)
-- **Feature Engineering**
-- Power BI (Graficos, analisis de documentos de requeriminetos funcionales, formateo y configuracion de datos, etc )
+## 🚀 What You Will Find
+1. 🗂 Analisis_e145.ipynb — Notebook con el análisis de datos  
+2. 📊 dash_e145.pbix — Dashboard en Power BI  
+3. 📈 datos_e145.xlsx — Dataset de ventas retail  
+4. 📑 Documento de requerimientos funcionales de negocio
 
+---
 
-## 📊 Impacto del Proyecto
+## 📈 Dashboard Preview
 
-- Reducción de **+40%** en tiempo de análisis para toma de decisiones
-- Identificación de Productos top, Estacionalidad y Oportunidades
-- Sistema reproducible y escalable para nuevos datos
+[![1-dash-gral.png](https://i.postimg.cc/j232dtys/1-dash-gral.png)](https://postimg.cc/bSbpmX6M)  
+[![2-secciones-bloques.png](https://i.postimg.cc/6q8wcR4r/2-secciones-bloques.png)](https://postimg.cc/jnYGdDX2)
 
+---
 
-## 💡 Resolución Clave
-- Posible mejora en conversión y planificacion de abastecimiento según estacionalidad
+## 🧠 Key Insights (Resultados)
+✔ Identifiqué patrones de ventas por canal.  
+✔ Visualización fácil de interpretar por stakeholders.  
+✔ Dashboard útil para seguimiento semanal de KPI.  
+
+📌 **Impacto estimado:** mejora en planificación comercial y operativa gracias a visibilidad de datos en tiempo real.
+
+---
+
+## 📌 Business Impact
+Este proyecto demuestra habilidades aplicables en **analítica de ventas retail**, incluyendo extracción, transformación y visualización de datos para facilitar decisiones estratégicas.
