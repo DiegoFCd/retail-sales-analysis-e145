@@ -21,7 +21,7 @@ Analizar ventas por canal, identificar patrones y generar un **dashboard interac
 
 ---
 
-## 🚀 What You Will Find
+## 🚀 What You Will Find (https://github.com/DiegoFCd/retail-sales-analysis-e145/tree/main)
 1. 🗂 Analisis_e145.ipynb — Notebook con el análisis de datos  
 2. 📊 dash_e145.pbix — Dashboard en Power BI  
 3. 📈 datos_e145.xlsx — Dataset de ventas retail  
