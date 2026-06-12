@@ -2,9 +2,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
+<br>
 
 ## 📌 Business Problem
-Una tienda retail necesita entender sus datos de ventas para tomar decisiones informadas y mejorar resultados comerciales.
+A retail store needs to understand its sales data to make informed decisions and improve business results.
+<br>
 
 ## 📊 Objective
 Analizar ventas por canal, identificar patrones y generar un **dashboard interactivo** para visualización ejecutiva.
@@ -12,18 +14,18 @@ Analizar ventas por canal, identificar patrones y generar un **dashboard interac
 ---
 
 ## 🛠 Tools Utilizados
-- **SQL** para extracción y limpieza de datos  
-- **Python (Pandas)** para análisis exploratorio  
-- **Power BI** para dashboard visual de indicadores  
-- **Excel** para manejo de datos adicionales
+- **SQL** 
+- **Python (Pandas)**   
+- **Power BI**   
+- **Excel** 
 
 ---
 
-## 🚀 What You Will Find (https://github.com/DiegoFCd/retail-sales-analysis-e145/tree/main)
-1. 🗂 Analisis_e145.ipynb — Notebook con el análisis de datos  
+## 🚀 What You Will Find 
+1. 🗂 Analisis_e145.ipynb — Notebook  
 2. 📊 dash_e145.pbix — Dashboard en Power BI  
-3. 📈 datos_e145.xlsx — Dataset de ventas retail  
-4. 📑 Documento de requerimientos funcionales de negocio
+3. 📈 datos_e145.xlsx — Dataset 
+
 
 ---
 
@@ -35,13 +37,15 @@ Analizar ventas por canal, identificar patrones y generar un **dashboard interac
 ---
 
 ## 🧠 Key Insights (Resultados)
-✔ Identifiqué patrones de ventas por canal.  
-✔ Visualización fácil de interpretar por stakeholders.  
-✔ Dashboard útil para seguimiento semanal de KPI.  
+✔ I identified sales patterns by channel.
 
-📌 **Impacto estimado:** mejora en planificación comercial y operativa gracias a visibilidad de datos en tiempo real.
+✔ Easy-to-interpret visualization for stakeholders.
+
+✔ Useful dashboard for weekly KPI tracking.
+
+📌 **Impacto estimado:** Improved business and operational planning thanks to real-time data visibility.
 
 ---
 
 ## 📌 Business Impact
-Este proyecto demuestra habilidades aplicables en **analítica de ventas retail**, incluyendo extracción, transformación y visualización de datos para facilitar decisiones estratégicas.
+This project demonstrates applicable skills in **retail sales analytics**, including data extraction, transformation, and visualization to facilitate strategic decisions.
